@@ -16,7 +16,6 @@ Welcome to my GitHub profile, I hope my notes and projects can be helpful to you
 
 - <b>Python</b>
   - [100 Days Of Code](https://github.com/DanFelp/Python-100DaysOfCode)
-- <b>Packet Sniffer</b>
   - [Packet Sniffer]()
 
 <h2>📝 Courses notes</h2>
