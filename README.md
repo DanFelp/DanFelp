@@ -20,6 +20,7 @@ Welcome to my GitHub profile, I hope my notes and projects can be helpful to you
 
 <h2>📝 Courses notes</h2>
 
+- [Network Security](https://github.com/DanFelp/Network-Security-Cisco/tree/main)
 - [Cisco CyberOps Associate](https://github.com/DanFelp/Cisco-CyberOpsAssociate-Resumo)
 - [Segurança de TI](https://medium.com/@danielfelipeoliver/google-segurança-de-ti-1-ameaças-à-segurança-186db4f7e55e)
 - [Criptografia](https://medium.com/@danielfelipeoliver/google-segurança-de-ti-2-criptografia-835c36bdfc0d)
