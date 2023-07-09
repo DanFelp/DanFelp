@@ -4,7 +4,7 @@ I'm a university student majoring in Cybersecurity, currently enhancing my knowl
 
 My studies also encompass aspects of information security, both on the defensive side (blue team) and the offensive side (red team). 
 
-My currently certifications: Cisco CBROPS, AZ-900 and SC-900
+My currently certifications: Cisco CBROPS, AZ-900 and SC-900.
 
 
 Here, you'll find notes I've taken from my courses, labs, and some projects I've worked on. 
