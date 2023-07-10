@@ -40,7 +40,9 @@ Welcome to my GitHub profile, I hope my notes and projects can be helpful to you
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="DanFelp | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="DanFelp | LinkedIn" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+
 
 
 
