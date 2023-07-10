@@ -28,6 +28,10 @@ Welcome to my GitHub profile, I hope my notes and projects can be helpful to you
 - [AWS Cloud Practitioner](https://github.com/DanFelp/AWSCloudPractitioner-Notes/blob/main/Caderno.pdf)
 - [Linux](https://github.com/DanFelp/LinuxCourseNotes/blob/main/AnotaçõesLinuxCourse.ctb.pdf)
 
+<h2> Resumo de Livros</h2>
+
+- [Testes de Invasão - Georgia Weidman](https://github.com/DanFelp/Resumo-Livro-Testes-de-Penetracao/tree/main)
+
 <h2>📝 Popular texts</h2>
 
 - [Phishing](https://folhapublica.com.br/coluna/phishing-5-maneiras-de-se-proteger-desse-tipo-de-ataque-cibernetico/)
