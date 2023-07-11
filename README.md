@@ -1,6 +1,6 @@
-<h1>Hi, I'm Daniel Felipe! <br/><a href="https://github.com/DanFelp">Cybersecurity Student</a>, <a href="https://www.linkedin.com/in/danielfelipeoliver/">Lawyer</a>, <a href="https://www.folhapublica.com.br/category/coluna/direito-digital">Columnist</a></h1>
+<h1>Hi, I'm Daniel Felipe! <br/><a href="https://github.com/DanFelp">Cybersecurity Researcher</a>, <a href="https://www.linkedin.com/in/danielfelipeoliver/">Lawyer</a>, <a href="https://www.folhapublica.com.br/category/coluna/direito-digital">Columnist</a></h1>
 
-I'm a university student majoring in Cybersecurity, currently enhancing my knowledge in computing, networking, programming and cloud. 
+I'm majoring in Cybersecurity, currently enhancing my knowledge in computing, networking, programming and cloud. 
 
 My studies also encompass aspects of information security, both on the defensive side (blue team) and the offensive side (red team). 
 
